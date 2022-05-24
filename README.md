@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data science, Machine learnig, Deep learning and Artificial Intelligence.
 - 🎓 I am currently pursuing my **Bachelor of Technology** in the stream of **Mechanical Engineering** at **Aditya college of Engineering and technology** ,suramplem.
 - 🎓 Integrated program in Data science, Machine learning and Artificial intelligence at **Hero vired**.
-- 🌱 I'm currently learning from [Udemy](https://www.udemy.com/) and [Kaggle](https://www.kaggle.com/).
+- 🌱 I'm currently learning from [Hero vired](https://vlearn.herovired.com/), [Udemy](https://www.udemy.com/) and [Geek for Geeks](https://www.geeksforgeeks.org/).
 - 🤝🏻 I'm open for collaborations in **Data Science** and **Machine Learning** domains.
 
 ### Skills
