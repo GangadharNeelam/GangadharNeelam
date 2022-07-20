@@ -1,12 +1,11 @@
 - 👋 Hi, I’m @GangadharNeelam
-- 🎓 I am currently pursuing my **Bachelor of Technology** in the stream of **Mechanical Engineering** at **Aditya college of Engineering and technology** ,suramplem.
-- 🎓 Integrated program in Data science, Machine learning and Artificial intelligence at **Hero vired**.
-- 👀 I’m interested in Data science, Machine learnig, Deep learning and Artificial Intelligence.
-- 🌱 I'm currently learning from [Hero vired](https://vlearn.herovired.com/), [Udemy](https://www.udemy.com/) and [Geek for Geeks](https://www.geeksforgeeks.org/).
-- 🤝🏻 I'm open for collaborations in **Data Science** and **Machine Learning** domains.
+- 🎓 Currently pursuing my **Bachelor of Technology** in the stream of **Mechanical Engineering** at **Aditya college of Engineering and technology** ,suramplem.
+- 🎓 I am a part time Integrated programmer in Data science, Machine learning and Artificial intelligence at **Hero vired**.
+- 👀 Interested in Data science, Machine learnig, Deep learning and Artificial Intelligence.
+- 🌱 Currently learning from [Hero vired](https://vlearn.herovired.com/), [Udemy](https://www.udemy.com/) and [Geek for Geeks](https://www.geeksforgeeks.org/).
 
 ### Skills
-Python, Data wrangling, Exploratory Data Analysis, Machine learning, Natural Language Processing
+Python, Data wrangling, Exploratory Data Analysis, Machine learning, Natural Language Processing, SQL
 
 ### Technical Stack currently using
 Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn, Imbalanced-Learn, Natural Langauge Tool Kit, Yellow brick
