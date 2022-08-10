@@ -5,10 +5,10 @@
 - 🌱 Currently learning from [Hero vired](https://vlearn.herovired.com/), [Udemy](https://www.udemy.com/) and [Geek for Geeks](https://www.geeksforgeeks.org/).
 
 ### Skills
-Python, Data wrangling, Exploratory Data Analysis, Machine learning, Natural Language Processing, SQL
+Python, Data wrangling, Data visualization, Data Analysis, Feature engineering, Machine learning, Natural Language Processing, MySQL
 
 ### Technical Stack currently using
-Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn, Imbalanced-Learn, Natural Langauge Tool Kit, Yellow brick
+Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn, Imbalanced-Learn, Yellow brick, Natural language tool kit, Spacy
 
 ### Connect me on:
 - LinkedIn : https://www.linkedin.com/in/gangadhar07/
