@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GangadharNeelam
+- 👋 Hello, I’m @GangadharNeelam
 - 🎓 Currently pursuing my **Bachelor of Technology** in the stream of **Mechanical Engineering** at **Aditya college of Engineering and technology** ,suramplem.
 - 🎓 I am a part time integrated programmer in Data science, Machine learning and Artificial intelligence at **Hero vired**.
 - 👀 Interested in Data science, Machine learnig, Deep learning and Artificial Intelligence.
