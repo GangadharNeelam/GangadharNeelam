@@ -19,7 +19,7 @@
 Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn, Imbalanced-Learn, Yellow brick, Tensorflow, Keras, Natural language tool kit, Spacy
 
 ### Connect me on:
-- LinkedIn : https://www.linkedin.com/in/gangadhar07/
-- Kaggle : https://www.kaggle.com/gangadharneelam
+- LinkedIn : www.linkedin.com/in/gangadhar-neelam/
+- Kaggle : www.kaggle.com/gangadharneelam
 
 Thanks for visiting my profile :)
