@@ -20,6 +20,5 @@ Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn, Imbalanced-Learn, Yellow brick
 
 ### Connect me on:
 - LinkedIn : www.linkedin.com/in/gangadhar-neelam/
-- Kaggle : www.kaggle.com/gangadharneelam
 
 Thanks for visiting my profile :)
