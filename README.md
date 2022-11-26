@@ -13,10 +13,9 @@
 - Natural Language Processing
 - MySQL
 - Excel
-- Power BI
 
 ### Technical Stack currently using
-Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn, Imbalanced-Learn, Yellow brick, Tensorflow, Keras, Natural language tool kit, Spacy
+Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn, Imbalanced-Learn, Yellow brick, Tensorflow, Keras, Natural language tool kit, Spacy, Power BI
 
 ### Connect me on:
 - LinkedIn : www.linkedin.com/in/gangadhar-neelam/
