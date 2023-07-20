@@ -1,23 +1,25 @@
-- 👋 Hello, I’m @GangadharNeelam
-- 🎓 Currently pursuing my **Bachelor of Technology** in the stream of **Mechanical Engineering** at **Aditya college of Engineering and technology** ,suramplem.
-- 🎓 I am a part time integrated programmer in Data science, Machine learning and Artificial intelligence at **Hero vired**.
-- 👀 Interested in Data science, Machine learnig, Deep learning and Artificial Intelligence.
+# 👋 Hello, I’m Gangadhar Neelam
 
-### Skills
-- Python
-- Data wrangling
-- Data visualization
-- Data Analysis
-- Machine learning
-- Deep learning
-- Natural Language Processing
-- MySQL
-- Excel
+🎓 Mechanical Engineering Graduate turned Data Scientist.
 
-### Technical Stack currently using
-Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn, Imbalanced-Learn, Yellow brick, Tensorflow, Keras, Natural language tool kit, Spacy, Power BI
+🏢 **Junior Associate Data Scientist** at **ABC Company**.
 
-### Connect me on:
-- LinkedIn : www.linkedin.com/in/gangadhar-neelam/
+👀 Passionate about leveraging data for meaningful insights and problem-solving.
 
-Thanks for visiting my profile :)
+## Skills and Technical Stack
+| Skills               | Technical Stack                |
+| -------------------  | -----------------------------  |
+| Python               | Numpy                          |
+| Data Scientist       | Pandas                         |
+| Machine Learning     | Matplotlib                     |
+| Deep Learning        | Seaborn                        |
+| Natural Language Processing | Scikit-Learn               |
+| MySQL                | TensorFlow                     |
+| Excel                | Keras                          |
+|                      | Natural Language Toolkit (NLTK)|
+
+🔗 Connect with Me on LinkedIn: [linkedin.com/in/gangadhar-neelam/](https://www.linkedin.com/in/gangadhar-neelam/)
+
+Thanks for visiting my profile! 😊
+
+Feel free to reach out for collaboration or any data-related discussions!
