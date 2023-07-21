@@ -2,7 +2,7 @@
 
 🎓 Mechanical Engineering Graduate turned Data Scientist.
 
-🏢 **Junior Associate Data Scientist** at **ABC Company**.
+🏢 **Junior Associate Data Scientist** at **Celebal Technologies**.
 
 👀 Passionate about leveraging data for meaningful insights and problem-solving.
 
