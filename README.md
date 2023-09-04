@@ -14,7 +14,7 @@
 <h2 align="left">About Me</h2>
 
 <p align="left">
-  Hi there! 👋 I'm Gangadhar Neelam, a passionate Junior Associate Data Scientist. I'm on a journey to become a proficient Data Scientist, exploring the fascinating world of Machine Learning, AI, and Data Science.
+  <b>Hi there! 👋 I'm Gangadhar Neelam, a passionate Junior Associate Data Scientist. I'm on a journey to become a proficient Data Scientist, exploring the fascinating world of Machine Learning, AI, and Data Science.</b>
 </p>
 
 <ul>
@@ -34,11 +34,11 @@
 
 <ul>
 <p align="left">
-  LinkedIn :  <a href="https://www.linkedin.com/in/gangadhar-neelam/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <b>LinkedIn :  <a href="https://www.linkedin.com/in/gangadhar-neelam/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a></b>
 </p>
 
 <p align="left">
-  Instagram :  <a href="https://instagram.com/ganga_ram_gr?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+  <b>Instagram :  <a href="https://instagram.com/ganga_ram_gr?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a></b>
 </p>
 </ul>
 
@@ -109,8 +109,7 @@
 </ul>
 
 <h2 align="left">Let's Connect!</h2>
-<ul>
+
 <p align="left">
   <b>Feel free to reach out and connect with me on LinkedIn. I'm always excited to meet like-minded individuals, share knowledge, and collaborate on exciting projects. Let's inspire and learn from each other and grow together!😊<b>
 </p>
-</ul>
