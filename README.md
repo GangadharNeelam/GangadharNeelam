@@ -10,22 +10,23 @@
 </p>
 
 <p align="left">
-  <b>🔭 I’m currently learning LLMs</b><br>
+  🔭 I’m currently learning LLMs<br>
   
-  <b>🌱 Junior Associate Data Scientist @ Celebal Technologies</b><br>
+  🌱 Junior Associate Data Scientist @ Celebal Technologies<br>
   
-  <b>🎓 Mechanical Engineering Graduate @ Aditya College Of Engineering And Technology</b><br>
+  🎓 Mechanical Engineering Graduate @ Aditya College Of Engineering And Technology<br>
   
-  <b>💬 Ask me about Machine Learning, AI, Data Science, Python</b><br>
+  💬 Ask me about Machine Learning, AI, Data Science, Python<br>
   
-  <b>📫 How to reach me <a href="mailto:gangaram7418@gmail.com">gangaram7418@gmail.com</a></b><br>
+  📫 How to reach me <a href="mailto:gangaram7418@gmail.com">gangaram7418@gmail.com</a><br>
   
-  <b>🌐 Know More about Me on <a href="https://www.linkedin.com/in/gangadhar-neelam/">LinkedIn</a></b><br>
+  🌐 Know More about Me on <a href="https://www.linkedin.com/in/gangadhar-neelam/">LinkedIn</a><br>
   
-  <b>📸 Connect with me on <a href="https://instagram.com/ganga_ram_gr?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==">Instagram</a></b><br>
+  📸 Connect with me on <a href="https://instagram.com/ganga_ram_gr?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==">Instagram</a><br>
   
-  <b>⚡ Aspiring Data Scientist!</b>
+  ⚡ Aspiring Data Scientist!
 </p>
+
 
 <h3 align="left">Languages:</h3>
 <p align="left">
@@ -77,3 +78,12 @@
     scikit-learn
   </a>
 </p>
+
+<h3 align="left">GitHub Stats:</h3>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=GangadharNeelam&show_icons=true&locale=en" alt="GitHub Stats">
+</p>
+
+<p align="left">Feel free to explore my repositories and connect with me on my social profiles. Let's learn and grow together in the world of Data Science and Machine Learning!😊</p>
+
+<p align="center"><b>Thank you!</b></p>
