@@ -3,32 +3,49 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GangadharNeelam&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
-<p align="left">
+<ul>
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=GangadharNeelam" alt="GitHub Trophies" />
   </a>
 </p>
+</ul>
+
+<h2 align="left">About Me</h2>
 
 <p align="left">
-  🔭 I’m currently learning LLMs<br>
-  
-  🌱 Junior Associate Data Scientist @ Celebal Technologies<br>
-  
-  🎓 Mechanical Engineering Graduate @ Aditya College Of Engineering And Technology<br>
-  
-  💬 Ask me about Machine Learning, AI, Data Science, Python<br>
-  
-  📫 How to reach me <a href="mailto:gangaram7418@gmail.com">gangaram7418@gmail.com</a><br>
-  
-  🌐 Know More about Me on <a href="https://www.linkedin.com/in/gangadhar-neelam/">LinkedIn</a><br>
-  
-  📸 Connect with me on <a href="https://instagram.com/ganga_ram_gr?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==">Instagram</a><br>
-  
-  ⚡ Aspiring Data Scientist!
+  Hi there! 👋 I'm Gangadhar Neelam, a passionate Junior Associate Data Scientist. I'm on a journey to become a proficient Data Scientist, exploring the fascinating world of Machine Learning, AI, and Data Science.
 </p>
 
+<ul>
 
-<h3 align="left">Languages:</h3>
+  <b>🔭 Currently, I'm exploring the world of LLMs (Language Model Models)</b><br>
+
+  <b>🌱 Junior Associate Data Scientist @ Celebal Technologies</b><br>
+  
+  <b>🎓 Mechanical Engineering Graduate @ Aditya College Of Engineering And Technology</b><br>
+  
+  <b>💬 Ask me about Machine Learning, AI, Data Science, Python</b><br>
+  
+  <b>📫 You can reach me via email at <a href="mailto:gangaram7418@gmail.com">gangaram7418@gmail.com</a></b><br>
+</ul>
+
+<h2 align="left">Connect with Me</h2>
+
+<ul>
+<p align="left">
+  LinkedIn :  <a href="https://www.linkedin.com/in/gangadhar-neelam/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+</p>
+
+<p align="left">
+  Instagram :  <a href="https://instagram.com/ganga_ram_gr?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+</p>
+</ul>
+
+
+
+<h2 align="left">Languages</h2>
+<ul>
 <p align="left">
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
@@ -39,8 +56,11 @@
         PySpark
     </a>
 </p>
+</ul>
 
-<h3 align="left">Tools:</h3>
+
+<h2 align="left">Tools</h2>
+<ul>
 <p align="left">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/>
@@ -78,12 +98,19 @@
     scikit-learn
   </a>
 </p>
+</ul>
 
-<h3 align="left">GitHub Stats:</h3>
-<p align="left">
+
+<h2 align="left">GitHub Stats</h2>
+<ul>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GangadharNeelam&show_icons=true&locale=en" alt="GitHub Stats">
 </p>
+</ul>
 
-<p align="left">Feel free to explore my repositories and connect with me on my social profiles. Let's learn and grow together in the world of Data Science and Machine Learning!😊</p>
-
-<p align="center"><b>Thank you!</b></p>
+<h2 align="left">Let's Connect!</h2>
+<ul>
+<p align="left">
+  <b>Feel free to reach out and connect with me on LinkedIn. I'm always excited to meet like-minded individuals, share knowledge, and collaborate on exciting projects. Let's inspire and learn from each other and grow together!😊<b>
+</p>
+</ul>
