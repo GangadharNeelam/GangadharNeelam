@@ -14,7 +14,7 @@
 <h2 align="left">About Me</h2>
 
 <p align="left">
-  <b>Hi there! 👋 I'm Gangadhar Neelam, a passionate Junior Associate Data Scientist. I'm on a journey to become a proficient Data Scientist, exploring the fascinating world of Machine Learning, AI, and Data Science.</b>
+  <b>I'm Gangadhar Neelam, a passionate Junior Associate Data Scientist. I'm on a journey to become a proficient Data Scientist, exploring the fascinating world of Machine Learning, AI, and Data Science.</b>
 </p>
 
 <ul>
@@ -34,11 +34,8 @@
 
 <ul>
 <p align="left">
-  <b>LinkedIn :  <a href="https://www.linkedin.com/in/gangadhar-neelam/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a></b>
-</p>
-
-<p align="left">
-  <b>Instagram :  <a href="https://instagram.com/ganga_ram_gr?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a></b>
+  <a href="https://www.linkedin.com/in/gangadhar-neelam/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>&nbsp;&nbsp;
+  <a href="https://instagram.com/ganga_ram_gr?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
 </ul>
 
@@ -65,15 +62,15 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/>
     Docker
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
     MySQL
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://databricks.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png?20230109143554" width="70" height="70"/>
     Databricks
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/>
     Pandas
@@ -84,21 +81,22 @@
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="50" height="50"/>
     Flask
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50"/>
     TensorFlow
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50"/>
     Seaborn
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/>
     scikit-learn
   </a>
 </p>
 </ul>
+
 
 
 <h2 align="left">GitHub Stats</h2>
