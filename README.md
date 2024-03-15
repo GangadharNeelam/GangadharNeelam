@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gangadhar Neelam</h1>
-<h3 align="center">Junior Associate Data Scientist</h3>
+<h3 align="center">Associate Data Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GangadharNeelam&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
@@ -12,7 +12,7 @@
 <h2 align="left">About Me</h2>
 
 <p align="left">
-  I'm Gangadhar Neelam, a passionate Junior Associate Data Scientist. I'm on a journey to become a proficient Data Scientist, exploring the fascinating world of Machine Learning, AI, and Data Science.
+  This is Gangadhar Neelam Associate Data Scientist. I'm on a journey to become a proficient Data Scientist, exploring the fascinating world of Machine Learning, AI, and Data Science.
 </p>
 
 <ul>
