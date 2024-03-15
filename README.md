@@ -19,7 +19,7 @@
   
   🔭 Currently, I'm exploring the world of LLMs (Language Model Models)<br>
   
-  🌱 Junior Associate Data Scientist at [Celebal Technologies](https://celebaltech.com/)<br>
+  🌱 Associate Data Scientist at [Celebal Technologies](https://celebaltech.com/)<br>
   
   🎓 Mechanical Engineering Graduate at [Aditya College Of Engineering And Technology](http://www.acet.ac.in/)<br>
   
