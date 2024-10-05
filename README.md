@@ -28,6 +28,17 @@
   📫 You can reach me via email at <a href="mailto:gangaram7418@gmail.com">gangaram7418@gmail.com</a><br>
 </ul>
 
+
+<h2 align="left">Certifications</h2>
+
+<ul>
+<p align="left">
+  <a href="https://credentials.databricks.com/5c47b231-e46e-4635-b5fa-b3299cc02f99" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>&nbsp;&nbsp;
+  <a href="https://instagram.com/ganga_ram_gr?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+</p>
+</ul>
+
+
 <h2 align="left">Connect with Me</h2>
 
 <ul>
